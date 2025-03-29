@@ -1,6 +1,6 @@
 ---
 title: 'Stay Hungry, Stay Foolish'
-date: 2025-03-13
+date: 2035-03-13
 permalink: /posts/2025-03-13-Stay-Hungry/
 tags:
   - self reflection
