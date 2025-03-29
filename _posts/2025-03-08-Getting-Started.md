@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started'
-date: 2012-08-14
+date: 2025-03-08
 permalink: /posts/2025-03-08-Getting-Started/
 tags:
   - sefl reflection
