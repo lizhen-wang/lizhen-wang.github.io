@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started'
-date: 2025-03-08
+date: 2035-03-08
 permalink: /posts/2025-03-08-Getting-Started/
 tags:
   - sefl reflection
@@ -18,12 +18,3 @@ But my case differs here that the action of blogging comes much later than my in
 I don't know why exactly writings have been so attractive to me. But it is so true that some genius do blogging or programming or do both regularly, ProgramThinker, Aron Swartz, Shengqiao Lin, Yifu Qu. I love reading their blogs and thoughts at that time. I was thinking maybe regular writing is worth trying. I have been putting much more emphasize on reading than writing, and I believed writing is quite easy as long as you have something to write. And now I am still feeling the same way but I do agree that thinking should be organized and trained on a regular basis, otherwise you are just a greedy information taker (the first word come into my mind is sucker) without internalizing them to your own words. And I believe writing is an important tool achieve this.
 
 So without further due, let us just get started.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
