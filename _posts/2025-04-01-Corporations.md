@@ -17,12 +17,12 @@ A seminar titled corporate concentration around the world and a working paper ti
 Evidence and findings from the literature
 ======
 
-[Doidge, Karolyi, and Stulz (2017)] (https://www.sciencedirect.com/science/article/abs/pii/S0304405X1630232X) find that a significant listing gap exists, or the US has less publicly listed firms compared to other countries with similar institutional and economic conditions. The core reason is lower new listing rates and relatively stable delisting rates. They did not discuss a lot on the drivers of new listings since several papers have examined this question already. As for delisting, they find merger and acquisition between public firms the primary reason, followed by delisting for cause and voluntary delisting.
+[Doidge, Karolyi, and Stulz (2017)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X1630232X) find that a significant listing gap exists, or the US has less publicly listed firms compared to other countries with similar institutional and economic conditions. The core reason is lower new listing rates and relatively stable delisting rates. They did not discuss a lot on the drivers of new listings since several papers have examined this question already. As for delisting, they find merger and acquisition between public firms the primary reason, followed by delisting for cause and voluntary delisting.
 
 The most inspiring part of this study actually comes from research design. More specifically, I am deeply attracted by how they test the theories they proposed, as well as how they interpret regression results, such as residuals and fixed effects.
 
 
-In a new paper, [Doidge, Karolyi, Shen and Stulz (2025)] (https://onlinelibrary.wiley.com/doi/full/10.1111/fire.12439) updated their evidence to 2023, the essential findings are the similar with their 2017 paper. Below are the key takeaways of this new paper:
+In a new paper, [Doidge, Karolyi, Shen and Stulz (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/fire.12439) updated their evidence to 2023, the essential findings are the similar with their 2017 paper. Below are the key takeaways of this new paper:
 •	This research updates Doidge, Karolyi, and Stulz (2017) to examine the evolution of the U.S. “listing gap”—the abnormally low number of publicly listed firms relative to other countries—from 2012 to 2023.
 •	The U.S. listing gap continued to increase after 2012, albeit at a slower pace. By 2023, the U.S. had approximately half as many listed firms per capita as other developed countries.
 •	The decrease in listed firms in the U.S. is a result of both a lower rate of new listings compared to the period before the 1996 peak, and a delist rate that has remained significant.
