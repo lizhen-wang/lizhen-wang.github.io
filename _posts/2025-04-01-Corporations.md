@@ -23,21 +23,18 @@ The most inspiring part of this study actually comes from research design. More 
 
 
 In a new paper, [Doidge, Karolyi, Shen and Stulz (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/fire.12439) updated their evidence to 2023, the essential findings are the similar with their 2017 paper. Below are the key takeaways of this new paper:
-•	This research updates Doidge, Karolyi, and Stulz (2017) to examine the evolution of the U.S. “listing gap”—the abnormally low number of publicly listed firms relative to other countries—from 2012 to 2023.
-•	The U.S. listing gap continued to increase after 2012, albeit at a slower pace. By 2023, the U.S. had approximately half as many listed firms per capita as other developed countries.
-•	The decrease in listed firms in the U.S. is a result of both a lower rate of new listings compared to the period before the 1996 peak, and a delist rate that has remained significant.
-•	The new list rate has remained generally low since 1996. From 2012 to 2022, the propensity of U.S. firms with 20 or more employees to be listed slightly increased from 0.59% to 0.65%.
-•	In the early 2000s, significantly more firms delisted than newly listed. In contrast, the 2010s saw delisting rates fall to historical lows, primarily due to a decrease in delistings for cause rather than fewer mergers or voluntary reasons.
-•	Despite a 46.23% decrease in the number of US listed firms from 1996 to 2023, the aggregate market capitalization of listed firms (in 2023 constant dollars) grew by 197.39% to $48.98 trillion.
-•	The findings raise critical questions about the causes and implications of this growing listing gap, including the role of the legal framework, market competition, U.S. economic dynamism, and capital allocation
+•This research updates Doidge, Karolyi, and Stulz (2017) to examine the evolution of the U.S. “listing gap”—the abnormally low number of publicly listed firms relative to other countries—from 2012 to 2023.
+•The U.S. listing gap continued to increase after 2012, albeit at a slower pace. By 2023, the U.S. had approximately half as many listed firms per capita as other developed countries.
+•The decrease in listed firms in the U.S. is a result of both a lower rate of new listings compared to the period before the 1996 peak, and a delist rate that has remained significant.
+•The new list rate has remained generally low since 1996. From 2012 to 2022, the propensity of U.S. firms with 20 or more employees to be listed slightly increased from 0.59% to 0.65%.
+•In the early 2000s, significantly more firms delisted than newly listed. In contrast, the 2010s saw delisting rates fall to historical lows, primarily due to a decrease in delistings for cause rather than fewer mergers or voluntary reasons.
+•Despite a 46.23% decrease in the number of US listed firms from 1996 to 2023, the aggregate market capitalization of listed firms (in 2023 constant dollars) grew by 197.39% to $48.98 trillion.
+•The findings raise critical questions about the causes and implications of this growing listing gap, including the role of the legal framework, market competition, U.S. economic dynamism, and capital allocation
 
 
 
 
 
-
-You can have many headings
-======
 
 Aren't headings cool?
 ------
