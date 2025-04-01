@@ -46,7 +46,7 @@ concentration has been relatively stable over the long run. The evidence shows t
 
 
 [Kwon, Ma, and Zimmermann (2024)](https://www.aeaweb.org/articles?id=10.1257/aer.20220621) also find that the concentration of production (e.g., asset share or sales share of top businesses) has increased persistently over the past century. Rising concentration was stronger in manufacturing and mining
-before the 1970s, and stronger in services, retail, and wholesale after the 1970s.
+before the 1970s, and stronger in services, retail, and wholesale after the 1970s. The data employed by this study comes from the Statistics of Income report (SOI) and the associated Corporation Source Book published annually by the IRS.
 
 This paper is published on the AER, i am actually quite shocked since the conclusions are similar, the most unique things about this study is that the sample period is long, and that cross industrial heterogeity exists.
 
