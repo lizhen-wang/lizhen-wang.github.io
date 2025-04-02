@@ -1,5 +1,5 @@
 ---
-title: 'ESGRI research grant'
+title: 'Talk with Profs'
 date: 2035-04-02
 permalink: /posts/2025-04-02-Talk-With-Profs/
 tags:
