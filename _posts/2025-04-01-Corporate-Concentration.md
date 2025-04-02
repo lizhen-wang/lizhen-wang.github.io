@@ -50,6 +50,8 @@ before the 1970s, and stronger in services, retail, and wholesale after the 1970
 
 This paper is published on the AER, i am actually quite shocked since the conclusions are similar, the most unique things about this study is that the sample period is long, and that cross industrial heterogeity exists.
 
+Baron, Schularick, and Zimmermann (2024) examine the extent and evolution of concentration among banking industry. We show that a country’s largest banks (i.e., the top-5 by assets) typically gain market share in crises, as small banks fail more often or are absorbed, making the largest banks even more dominant after crises. This is despite the fact that the largest banks tend to take more risk before crises, suﬀer greater equity losses in crises, and contract their lending more. Instead, the survival and expansion of the largest banks appear linked both to substantially higher rates of government rescues and to the fact that their deposit flows are more insensitive to bank losses, compared to smaller banks. We find no evidence that large-bank-dominated systems have lower crisis frequency; in fact, conditional on crises, large-bank-dominated systems see more severe economic outcomes.
+
 
 
 Aren't headings cool?
