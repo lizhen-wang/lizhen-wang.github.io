@@ -1,5 +1,5 @@
 ---
-title: 'Number of Corporations and Their Economic Significance'
+title: 'Evolution of Corporations'
 date: 2035-04-01
 permalink: /posts/2025-04-01-Corporate-Concentration/
 tags:
@@ -54,5 +54,20 @@ Baron, Schularick, and Zimmermann (2024) examine the extent and evolution of con
 
 
 
-Aren't headings cool?
+Political transformation
 ------
+Steel (2024) find that the average ideolgoy of corporate directors and executives has shifted to the left over time, changing from modestly conservative in 2001 to roughly centrist by 2022. The author also finds that indiviudal ideology has large effects on firm-level political activity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
