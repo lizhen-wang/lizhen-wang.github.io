@@ -41,4 +41,16 @@ Myself
 
 1. always, always, do the hard things first
 2. it is interesting that sometimes i have strong feelings of not to work, but after several days of let the time kill me, I start to want to work. I dont know if this is normal or something wrong.
-3. it is also quiet intersting that sometimes I just feel that my mind is pure chaos, but at other times like today. I feel quite clear. So this is exactly when I should start to work.
+3. it is also quiet intersting that sometimes I just feel that my mind is pure chaos, but at other times like today. I feel quite clear. So this is exactly when I should start to work
+
+Seminars
+======
+when i feel less comfortable and less confident, i alway feel less willing to interact with people. for example, when my work is progressing smoothly as i expect, i would not wnat to attend seminars which from my perspective, should participate. 
+
+Here is analysis from ChatGPT
+
+It’s not laziness or avoidance — it’s your brain protecting your sense of self.
+
+
+Instead of “I should attend seminars,” try an alternative reframe: What do I need right now to feel steady again — and will this seminar help or hinder that?
+
