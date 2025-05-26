@@ -55,9 +55,11 @@ Qs you should have raised
 You should do
 ======
 1. Prioritize research
-2. Make arrangements and try to raise questions in advance. If you need to prepare. Make clear your long-term and short-term goals and only do the most important things!!!
-3. Practice oral english. Actually, i feel that people can understand your eng when you talk with them in private, the problem is that you feel stressed to raise question in public.
-4. It seems that when you raise questions, you can consider the following aspects
+2. Pursue extraordinary
+3. Participant in academic activities, the shocks are much more than only relying on yourself
+4. Make arrangements and try to raise questions in advance. If you need to prepare. Make clear your long-term and short-term goals and only do the most important things!!!
+5. Practice oral english. Actually, i feel that people can understand your eng when you talk with them in private, the problem is that you feel stressed to raise question in public.
+6. It seems that when you raise questions, you can consider the following aspects
 
    a) mechanism: alternative explanations? omitted variables? reverse causality?
    
