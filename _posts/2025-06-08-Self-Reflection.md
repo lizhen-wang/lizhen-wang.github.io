@@ -4,10 +4,11 @@ date: 2035-06-08
 permalink: /posts/2025-06-08-Self Reflection/
 tags:
   - self reflection
+  - five star
 
 ---
 
-This blog is a record of you reflect on yourself for the past week.
+This blog is a record of you reflect on yourself for the past week. 
 
 
 Better knowing yourself 
@@ -38,3 +39,6 @@ Love yourself
 ======
 Your body worked hard to keep you comfortable. Why just ignore their efforts?
 Yesterday, I ate too much, so my stomach does not feel quite good. Then I went to exercise, after which, I feel so much better, and even hungry late at night. 
+
+I suddenly feel that "love yourself" might be wrong. Generally, youself might be bad, but when you want to be a better human being, how can you not torturing yourself? For example, you are fat, but you want to be slim, how come you do not exercise and control eating habits but still be slim?
+This is especially true for people who dont have enough resources. If you want to break the constraints from your original family and environments, how come you dont change yourself and indulge yourself to become that one people all want to? So the thing is that dont put happiness pursuing on your work as the first priority, the first thing for being succesful is self-discipline and like what i noticed, carving yourself rationally, sometimes, you even need to be an asshole to invoke your reactions. 
