@@ -81,7 +81,6 @@ Luo, J., & Kaul, A. (2019). Private action in public interest: The comparative g
 Kaul, A., & Luo, J. (2018). An economic case for CSR: The comparative efficiency of for‐profit firms in meeting consumer demand for social goods. Strategic Management Journal, 39(6), 1650-1677.
 
 
-
 How PhDs find whether a question worth exploring? (Bo YANG)
 ======
 Nan Jia
@@ -93,3 +92,18 @@ Nan Jia
 Aseem Kaul
 1. the development of communication technologies --> may help a lot
 2. be specific on your research question
+
+
+We are borrowing concepts from other disciplines, but we do not understand them as good as scholars (Srividya JANDHYALA)
+======
+Aseem Kaul
+1. strategy scholars should better understand strategies
+
+
+
+
+
+
+
+
+
