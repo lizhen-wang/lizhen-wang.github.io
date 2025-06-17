@@ -16,7 +16,6 @@ How do you define the boundary between market and non-market strategy--and is th
 Nan Jia & Aseem Kaul
 1. the boundary is blurred
 
-Nan Jia
 
 Aseem Kaul
 1. market strategy is about how you do things, non-market strategy is about how you shape the rule of the law
